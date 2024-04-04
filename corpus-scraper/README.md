@@ -1,0 +1,1 @@
+[CorpusScraper](https://github.com/CentreForDigitalHumanities/corpus-scraper) has moved to [centrefordigitalhumanities.github.io/corpus-scraper/](https://centrefordigitalhumanities.github.io/corpus-scraper/).
